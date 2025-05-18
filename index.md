@@ -1,3 +1,2 @@
- # Trifs Wonderful Multiverse
 
- 
+This is an index page
