@@ -6,3 +6,4 @@ This repository serves as a gathering place for Trifs notes and ideas for DnD. J
 fixing links...
 - [Kingdoms](/kingdoms/index.md)
 - [Towns](/towns/index.md)
+- [test](/docs/test.md)
