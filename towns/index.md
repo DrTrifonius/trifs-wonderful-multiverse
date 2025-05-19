@@ -1,4 +1,4 @@
 ## Cities
-- [Krast](/towns/krast.md)
+- [Krast](./krast.md)
 ## Hamlets
 - [Creekwood](/towns/creekwood.md)
