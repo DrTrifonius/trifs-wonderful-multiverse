@@ -1,2 +1,2 @@
 ## Kingdoms
-- [Midrec](/kingdoms/midrec.md)
+- [Midrec](/kingdoms/midrec)
